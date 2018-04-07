@@ -122,7 +122,7 @@ namespace MazeSnake
         Timer waitAnd = new Timer(0, TimerUnits.Seconds);
         event Action waitAndDo = null;
 
-        bool updateGame = true;
+        bool updateGame = true; 
 
         int streak = 0;
 
