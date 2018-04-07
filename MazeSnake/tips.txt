@@ -1,0 +1,74 @@
+﻿Press Ctrl+Alt+G for a surprise!
+Collect coins for the shop!
+<about:blank>
+Be sure to check out the achievements!
+It took six months to find the hidden chamber!
+Can you find the twin?
+194 or 98?
+E = mc^2
+Achievements earn you coins and XP!
+Don't explode. It's bad for your health.
+public bool IHateWhenGamesTakeForeverToLoad = true;
+XP stands for experience points.
+Now with longer usernames!
+N0w w1th symb0l$!
+There's always a way out!
+Lightning, YUM!
+Get powerups to finish faster!
+Report all errors to your provider to improve the game!
+There are 6 types of powerups: Speed, Teleport, Electric, Forcefield, Ice, and Jackpot!
+Version $version: Some Teleports restart you!
+Each maze has up to 5 coins. Make sure you collect them!
+Skins can your appearance, and can be purchased in the Shop.
+Click "Stats" so see how many mazes you've completed, how many powerups you've collected, and more!
+Now with a typing cursor!
+Be sure not to mess with the MazeSnakeUsers.bin file. It may corrupt your saved info.
+Now with smoother typing!
+Now 20% cooler!
+im so smrt
+Binoculars are Awesome!
+Punctuation is Fun!
+No exceptions!
+You appear to be playing MazeSnake.
+Houston, we have a problem.
+Now with auto-backup!
+The auto-backup feature will keep your game info as safe as possible!
+Check out the settings (gear icon) to edit your user's information!
+What's the point? Oh, yeah, there isn't one. Time to solve another maze!
+Now with free gifts!
+Now with free coins!
+Now without XP!
+Now with enemies!
+Now in Monogame!
+I am your father.
+Try buying powerups in the shop!
+You can mute the sound from the start menu.
+Don't let enemies catch you!
+The Speed powerup makes you go faster.
+The Teleport powerup randomly places in you the maze.
+The Electric powerup allows you to break walls for a short amount of time.
+The Jackpot powerup is worth 50 coins.
+The Forcefield powerup makes you immune to enemies for a short amount of time.
+The Ice powerup freezes the timer for a short amount of time.
+Be sure to pick up the limited edition skins during holiday weeks!
+// Add new tips here
+//
+The current version is $version!
+//
+// Easter egg about level generation methods & such
+Going northwest!
+Up, left, up, left -- hey, wait a second...
+498,619 walls!
+209 walls!
+Binary tree!
+Hunt-and-Kill!
+It's biased!
+No longer biased!
+Okay, it's a little biased!
+MazeSnake: Now 40% more difficult!
+//
+// Holiday tips
+_on-12/25~Merry Christmas!
+_on-10/31~Happy Halloween!
+_on-01/01~Happy New Year!
+_on-12/31~Just wait until tomorrow!
